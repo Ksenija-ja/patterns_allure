@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Ksenija-ja/patterns_task_one/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ksenija-ja/patterns_task_one/actions/workflows/gradle.yml)
+![image](https://github.com/user-attachments/assets/fb4ebcdf-ad98-48aa-896b-97c3bb4dc945)
